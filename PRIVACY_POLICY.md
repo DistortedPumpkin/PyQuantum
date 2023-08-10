@@ -1,14 +1,10 @@
 # PyQuantum Privacy Policy
 
 ## Data we collect from you
-- Your user id on Discord
-- The access token given through the oauth2 authorization when you log in to the dashboard
 - The amount of times you use the bot service and its individual functions (via using commands of the bot)
 - The amount of messages you sent in servers that enabled the message tracking feature (content is only checked if they enabled the "only good messages" configuration - content is NEVER stored though, just checked once)
 
 ## Why we collect this information
-- Your user id is used to identify you on the service and lock all your balance and data stored to you so that no one else can access your account on the bot.
-- The access token from oauth2 is used to identify you when using the dashboard.
 - The amount of times you use the bot service is collected so the team at PyQuantum can see the interests of our users best. This serves to tell the team where to focus our development and what to get rid of to make the PyQuantum experience best for the user.
 - That number of messages is used for the server to track activity in their server. We don't use your message data for anything else.
 
