@@ -10,7 +10,7 @@
 - Your user id is used to identify you on the service and lock all your balance and data stored to you so that no one else can access your account on the bot.
 - The access token from oauth2 is used to identify you when using the dashboard.
 - The amount of times you use the bot service is collected so the team at PyQuantum can see the interests of our users best. This serves to tell the team where to focus our development and what to get rid of to make the PyQuantum experience best for the user.
-- That number of messages is used for the server to track activity in their server. We don't your message data for anything else.
+- That number of messages is used for the server to track activity in their server. We don't use your message data for anything else.
 
 ## Who has access to this information
 - Only the 2 owners of the bot (.1pumpkin and vneumann) have access to this data
